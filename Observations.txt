@@ -1,0 +1,10 @@
+
+                                              Analysis of Pymaceuticals data 
+
+Data showed that there was a small variation of the measures taken for each drug as shown in the "Total number of measurements taken on each drug regimen" bar chart.
+
+There was a fairly even distribution of male vs female mice as shown by the "Distribution of female versus male mice" pie chart.
+
+When looking at one specific mouse on Capomulin it seems like Tumor volume is steadily decreasing as time goes on as shown on line chart titled "Tumor Volumen vs. Timepoint for mouse treated with Capomulin"
+
+Based on the correlation coefficient of .84 it can be said that there is a strong relationship between a mouse's weight and the average tumor volume.
